@@ -1,0 +1,25 @@
+body{
+    color: red;
+    font-size: 27px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#mainNav .navbar-brand{
+    color: orange;
+    text-decoration: underline;
+}
+#mainNav {
+    position: fixed;
+}
+.italicclass{
+    font-style: italic;
+}
+
+#
+
+.tableauPlaceholder{
+    float: right;
+}
+
+
